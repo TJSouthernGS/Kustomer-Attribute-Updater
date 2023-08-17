@@ -30,6 +30,7 @@ KUSTOMER_ATTRIBUTE=countryCodeTree
 ```
 
 KUSTOMER_ORG: The subdomain you use for the target Kustomer instance.
+
 KUSTOMER_ATTRIBUTE: The database name for the created tree field.
 
 ## Running the Script
