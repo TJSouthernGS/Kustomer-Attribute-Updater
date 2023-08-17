@@ -4,7 +4,7 @@ This scripts intended purpose is to load a list of countries in JSON format into
 
 ## Initial Setup
 
-- Ensure you have Node JS installed on your machine.[Download](https://nodejs.org/en/download)
+- Ensure you have Node JS installed on your machine. [Download Link](https://nodejs.org/en/download)
 - Unzip the project and open a terminal within the unzipped directory
 - Run `npm install` to install all package dependancies
 - Configure the `.env` file to match your Kustomer org, klass, token and attribute
