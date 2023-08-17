@@ -59,3 +59,5 @@ async function uploadMetadata(properties) {
     console.log(err.response.data);
   }
 }
+
+init();
